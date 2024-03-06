@@ -1,16 +1,16 @@
 # hacks-1 (GIT)
-[Hack #1](https://github.com/jmbarreto25/git_h_1.git)✔
+[Hack #1](https://github.com/jmbarreto25/git_h_1)✔
 <br><br>
-[Hack #2](https://github.com/jmbarreto25/git_h_2.git)✔
+[Hack #2](https://github.com/jmbarreto25/git_h_2)✔
 <br><br>
-[Hack #3](https://github.com/jmbarreto25/git_h_3.git)✔
+[Hack #3](https://github.com/jmbarreto25/git_h_3)✔
 <br><br>
-[Hack #4](https://github.com/jmbarreto25/git_h_4.git)✔
+[Hack #4](https://github.com/jmbarreto25/git_h_4)✔
 <br><br>
-[Hack #5](https://github.com/jmbarreto25/git_h_5.git)✔
+[Hack #5](https://github.com/jmbarreto25/git_h_5)✔
 <br><br>
-[Hack #6](https://github.com/jmbarreto25/git_h_6.git)✔
+[Hack #6](https://github.com/jmbarreto25/git_h_6)✔
 <br><br>
-[Hack #7](https://github.com/jmbarreto25/git_h_7.git)✔
+[Hack #7](https://github.com/jmbarreto25/git_h_7)✔
 <br><br>
-[Hack #8](https://github.com/jmbarreto25/git_h_8.git)✔
+[Hack #8](https://github.com/jmbarreto25/git_h_8)✔
